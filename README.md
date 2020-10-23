@@ -8,4 +8,6 @@ You can find the latest version of the filter [here](https://raw.githubuserconte
 
 Paste it into the "Filtered Regex" section, and you're good to go!
 
+*It's also recommended to set your Filter type to **Remove Message**, so you don't have to see the spam at all.*
+
 ![Demonstration](https://i.imgur.com/5KonraL.gif)
