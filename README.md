@@ -9,6 +9,7 @@ You can find the latest version of the filter [here](https://raw.githubuserconte
 
 #### Addons
 There are also some addons to the filter which aren't included in the main one, for varying reasons.
+
 *Filters marked with a ⚠ indicate they may have false positives.*
 
 * [⚠ More spam blocking!](https://raw.githubusercontent.com/Vukky123/runescape-chat-filter/main/filters/filter-fprisk)
