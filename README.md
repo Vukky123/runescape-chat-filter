@@ -8,8 +8,10 @@ You can use this chat filter with [RuneLite](https://runelite.net)'s Chat Filter
 You can find the latest version of the filter [here](https://raw.githubusercontent.com/Vukky123/runescape-chat-filter/main/filters/filter-main).
 
 #### Addons
-There are also some addons to the filter which aren't included in the main one.
-* [[POTENTIAL FALSE POSITIVES] More spam blocking!](https://raw.githubusercontent.com/Vukky123/runescape-chat-filter/main/filters/filter-fprisk)
+There are also some addons to the filter which aren't included in the main one, for varying reasons.
+*Filters marked with a ⚠ indicate they may have false positives.*
+
+* [⚠ More spam blocking!](https://raw.githubusercontent.com/Vukky123/runescape-chat-filter/main/filters/filter-fprisk)
 
 ### Installing the filter
 Paste it into the "Filtered Regex" section of the Chat Filter plugin's settings, and you're good to go!
