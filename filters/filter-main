@@ -1,5 +1,5 @@
-c(u\d+|\d+)m
-discord.Gg/run(e|)(chat|)
+c(u\d+|\d+|\d+u\d+)m
+discord.gg\/(run(e|)(chat|)|UID)
 S('|)(E|e)l(l|1)
 R S M A
 Join "Pregnant"
@@ -10,3 +10,6 @@ S  E  L  L R  S  0 7
 (9vgmswh|Nederbelg)
 "Blue Bible"
 Frostbetscc
+Bill Swap
+All Bulks
+kree \d{4}
