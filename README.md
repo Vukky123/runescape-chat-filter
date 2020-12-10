@@ -20,3 +20,11 @@ Paste it into the "Filtered Regex" section of the Chat Filter plugin's settings,
 *It's also recommended to set your Filter type to **Remove Message**, so messages flagged by the filter will not show up in chat.*
 
 ![Demonstration](https://i.imgur.com/5KonraL.gif)
+
+## Where are these filters tested?
+
+### Free worlds
+World 301
+
+### Paid worlds
+World 302
