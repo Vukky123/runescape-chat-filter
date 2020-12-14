@@ -14,8 +14,10 @@ Frostcasino
 (Cheapest Price For|Buy) Runescape Gold
 Bill Swap
 All Bulks
-(Kree|Vegas|Jad) \d{4}
-Runebet
+Cc Dabs
+(Kree|Vegas|Jad|Coin) \d{4}
+Rune( |)bet
+RuneRoll,cc
 \[Uidhosts\]
 has been P—A—I—D:
 Host Dicing
