@@ -1,7 +1,15 @@
 # runescape-chat-filter
 A terrible attempt by a guy that hasn't used RegEx before to filter spam messages in your OSRS chat.
 
-## How to use?
+## Where are these filters tested?
+
+### Free worlds
+World 301 (Grand Exchange)
+
+### Paid worlds
+World 302 (Grand Exchange)
+
+## Using the filter
 You can use this chat filter with [RuneLite](https://runelite.net)'s Chat Filter plugin.
 
 ### Getting the filter
@@ -20,11 +28,3 @@ Paste it into the "Filtered Regex" section of the Chat Filter plugin's settings,
 *It's also recommended to set your Filter type to **Remove Message**, so messages flagged by the filter will not show up in chat.*
 
 ![Demonstration](https://i.imgur.com/5KonraL.gif)
-
-## Where are these filters tested?
-
-### Free worlds
-World 301 (Grand Exchange)
-
-### Paid worlds
-World 302 (Grand Exchange)
