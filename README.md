@@ -24,7 +24,7 @@ Paste it into the "Filtered Regex" section of the Chat Filter plugin's settings,
 ## Where are these filters tested?
 
 ### Free worlds
-World 301
+World 301 (Grand Exchange)
 
 ### Paid worlds
-World 302
+World 302 (Grand Exchange)
