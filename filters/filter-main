@@ -1,5 +1,5 @@
 c(u\d+|\d+|\d+u\d+)m
-discord.gg\/(run(e|)(chat|)|UID)
+discord.(g|G)g\/(| )joinrc
 S('|)(E|e)l(l|1)
 R S M A
 Join "Pregnant"
