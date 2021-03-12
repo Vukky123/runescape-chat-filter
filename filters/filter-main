@@ -16,7 +16,7 @@ Frostcasino
 Bill Swap
 All Bulks
 Cc Dabs
-(Kree|Vegas|Jad|Coin|Gamble) \d{4}
+(Kree|Vegas|Jad|Coin) \d{4}
 Rune( |)bet
 R(—|)(ü|u)ne(—|)R(—|)(ö|o)ll(—|)(\.|,)(—|)c(—|)c
 \[Uidhosts\]
