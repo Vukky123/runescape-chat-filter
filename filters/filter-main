@@ -1,33 +1,7 @@
 c(u\d+|\d+|\d+u\d+)m
-discord.(g|G)g\/(| )joinrc
-A place for old school, New School, fun, and more!
-S('|)(E|e)l(l|1)
-R S M A
-Join "Pregnant"
-(Still no bf|Will be rs gf|I don('|)t have a bf|C('|)mon i('|)d make a good gf|I am boyfriend free|You can steal me from my bf|I love my bf|Out-Simp my simp|spoils me\(\d+gp\)|You will be my new bf :o|Sorry\*\*\*\* only|Sorry, I won('|)t do less than \d+gp)
-Dancing for (cash|gold|gp|money)
-Doubling (cash|gold|gp|money)
-(S  E  L  L R  S  0 7|Se\|\|rs07)
-(9vgmswh|Nederbelg)
-"Blue Bible"
-Frostbetscc
-Frostcasino
-(Cheapest Price For|Buy) Runescape Gold
-Bill Swap
-All Bulks
-Cc Dabs
-(Kree|Vegas|Jad|Coin) \d{4}
-Rune( |)bet
-R(—|)(ü|u)ne(—|)R(—|)(ö|o)ll(—|)(\.|,)(—|)c(—|)c
-\[Uidhosts\]
-has been P—A—I—D:
-Host Dicing
-Accept bets-Roll \d*X\d \(Gamble \d{4}\)--100k -250m
-Player generated a \d{1,3}\/\d{1,3}. You (Win|Lost)! At \d{2}:\d{2}:\d{2} (a|p)m
-\d*(m|k) was paid out to the Winner! At \d{2}:\d{2}:\d{2} (a|p)m
-Player decline trade\. At \d{2}:\d{2}:\d{2} (a|p)m
-Paid out: (\d*|\d*.\d*)(m|k) to .+ @ \d{2}:\d{2}:\d{2} (A|P)m
-Trade Accepted: (\d*|\d*.\d*)(m|k) from .+ @ \d{2}:\d{2}:\d{2} (A|P)m
-.+ R—O—L—L—E—D \(\d*\) and L—O—S—T in \d*×\d* @ \d{2}:\d{2}:\d{2} (A|P)m
-free stuff
-Need money
+(Veg|Roll) \d{4}
+Trade Accepted For:.* Amount:\(.*\)\[\d{2}:\d{2}:\d{2}:(A|P)m\]
+.* Has Lost With A Roll Of:\(\d*\)\[\d{2}:\d{2}:\d{2}:(A|P)m\]
+.* Has Been Paid:\(\d*\w\) @ \[\d{2}:\d{2}:\d{2}:(A|P)m\]
+.* Has (Won|Lost) Slots( x\d*|):( |)(\((\d*\w|\w*)\)|)\(\w*, \w*, \w*\)\[\d{2}:\d{2}:\d{2}(:(A|P)m|)(\]|)
+.* Has won:\(\d*\w\) With A Roll Of:\(\d*(\w|)\)\[\d{2}:\d{2}:\d{2}:(A|P)m\]
