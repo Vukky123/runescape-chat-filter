@@ -1,5 +1,5 @@
 c(u\d+|\d+|\d+u\d+)m
-(Veg|Roll) \d{4}
+(Veg|Roll|vëg) \d{4}
 Trade Accepted For:.* Amount:\(.*\)\[\d{2}:\d{2}:\d{2}:(A|P)m\]
 .* Has Traded \d*\w @ \[\d{2}:\d{2}:\d{2}\](A|P)m
 .* Has Lost With A Roll Of:\(\d*\)\[\d{2}:\d{2}:\d{2}:(A|P)m\]
