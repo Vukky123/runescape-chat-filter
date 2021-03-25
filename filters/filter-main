@@ -4,6 +4,6 @@ Trade Accepted For:.* Amount:\(.*\)\[\d{2}:\d{2}:\d{2}:(A|P)m\]
 .* Has Traded \d*\w @ \[\d{2}:\d{2}:\d{2}\](A|P)m
 .* Has Lost With A Roll Of:\(\d*\)\[\d{2}:\d{2}:\d{2}:(A|P)m\]
 .* Has Been Paid:\(\d*\w\) @ \[\d{2}:\d{2}:\d{2}:(A|P)m\]
-.* Has (Won|Lost) Slots( x\d*|):( |)(\((\d*\w|\w*)\)|)\(\w*, \w*, \w*\)\[\d{2}:\d{2}:\d{2}(:(A|P)m|)(\]|)
+.* Has (Won|Lost) (S|s)lots( x\d*|):( |\d*\w |)(\((\d*\w|\w*)\)|)\(\w*, \w*, \w*\)(\[\d{2}:\d{2}:\d{2}(:(A|P)m|)(\]|)|)
 .* (H|h)as won(:\(\d*\w\) With A Roll Of:| with a roll of )\(\d*(\w|)\)( |)\[\d{2}:\d{2}:\d{2}(:(A|P)m|)\]((A|P)m|)
 .* has lost with a roll of \(\d*(\w|)\) \[\d{2}:\d{2}:\d{2}\](A|P)m
